@@ -8,3 +8,7 @@ for i in num:
     
     if num%5==0:
         print('5の倍数である')
+    if num%10==0:
+        print('10の倍数')
+        
+        
